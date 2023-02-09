@@ -1,0 +1,30 @@
+.body{
+    border: 1px solid rgb(0, 0, 0);
+    width: 500px;
+    
+    
+    
+}
+.contentCart{
+    display: flex;
+    background-color: rgb(248, 248, 248);
+    margin: 5px 0px;
+    border-bottom: 2px solid rgb(158, 157, 157);
+}
+.thanhtoan{
+    
+    
+    
+    border: 1px solid rgb(121, 121, 120);
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+    color: #000;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 5px 1px black;
+}
+.thanhtoan1{
+    color: #ff0000;
+    text-decoration: none;
+    font-weight: 900;
+    
+}
